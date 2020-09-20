@@ -1,1 +1,1 @@
-alert("More styling and additions in future")
+// alert("More styling and additions in future")
